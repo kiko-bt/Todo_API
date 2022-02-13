@@ -19,7 +19,7 @@ namespace Todo.DataLab.Repositories
         public async Task<ServiceResponse<TodoItem>> GetById(int id)
         {
             ServiceResponse<TodoItem> serviceResponse = new();
-            serviceResponse.Data = await _db.Todos.FirstOrDefaultAsync(x => x.Id == id);
+            serviceResponse.Data = await _db.Todos.FindAsync(id);
             
             return serviceResponse;
         }

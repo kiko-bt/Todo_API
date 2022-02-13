@@ -20,7 +20,7 @@ namespace Todo.DataLab.Repositories
         {
             ServiceResponse<User> serviceResponse = new();
 
-            serviceResponse.Data = await _db.Users.FirstOrDefaultAsync(x => x.Id == id);
+            serviceResponse.Data = await _db.Users.FindAsync(id);
 
             return serviceResponse;
         }

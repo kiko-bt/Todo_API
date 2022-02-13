@@ -10,3 +10,15 @@ C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domai
 C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.dll
 C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.Domain\obj\Debug\net6.0\ref\Todo.Domain.dll
 C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.pdb
+D:\Todo.API\Todo.Domain\bin\Debug\net6.0\Todo.Domain.deps.json
+D:\Todo.API\Todo.Domain\bin\Debug\net6.0\Todo.Domain.dll
+D:\Todo.API\Todo.Domain\bin\Debug\net6.0\ref\Todo.Domain.dll
+D:\Todo.API\Todo.Domain\bin\Debug\net6.0\Todo.Domain.pdb
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.AssemblyReference.cache
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfoInputs.cache
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfo.cs
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.CoreCompileInputs.cache
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.dll
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\ref\Todo.Domain.dll
+D:\Todo.API\Todo.Domain\obj\Debug\net6.0\Todo.Domain.pdb

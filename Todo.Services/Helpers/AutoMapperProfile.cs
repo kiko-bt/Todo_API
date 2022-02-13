@@ -9,10 +9,10 @@ namespace Todo.Services.Helpers
         public AutoMapperProfile()
         {
             CreateMap<TodoItem, TodoItemDTO>();
-            CreateMap<TodoItemDTO, TodoItem>();
+            //CreateMap<TodoItemDTO, TodoItem>();
 
             CreateMap<User, UserDTO>();
-            CreateMap<UserDTO, User>();
+            //CreateMap<UserDTO, User>();
         }
     }
 }

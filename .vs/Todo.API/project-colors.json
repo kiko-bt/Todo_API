@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a007067d-d0bb-47b1-8124-5f5c02aac7e0": {
+      "ProjectGuid": "a007067d-d0bb-47b1-8124-5f5c02aac7e0",
+      "DisplayName": "Todo.API",
+      "ColorIndex": 0
+    },
+    "6ccd4078-5586-4338-9b70-b1e9f7722745": {
+      "ProjectGuid": "6ccd4078-5586-4338-9b70-b1e9f7722745",
+      "DisplayName": "Todo.DataLab",
+      "ColorIndex": 1
+    },
+    "53ca9c6d-8317-4973-b529-479aede73df4": {
+      "ProjectGuid": "53ca9c6d-8317-4973-b529-479aede73df4",
+      "DisplayName": "Todo.Domain",
+      "ColorIndex": 2
+    },
+    "fd174e17-9779-4530-9860-4b410e6ed8f7": {
+      "ProjectGuid": "fd174e17-9779-4530-9860-4b410e6ed8f7",
+      "DisplayName": "Todo.DomainModels",
+      "ColorIndex": 3
+    },
+    "b4823466-ab4f-446d-98f2-445fbce15f51": {
+      "ProjectGuid": "b4823466-ab4f-446d-98f2-445fbce15f51",
+      "DisplayName": "Todo.Services",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

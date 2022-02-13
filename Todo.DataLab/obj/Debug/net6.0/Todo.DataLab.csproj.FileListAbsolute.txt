@@ -1,0 +1,17 @@
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.deps.json
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.runtimeconfig.json
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.dll
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\bin\Debug\net6.0\ref\Todo.DataLab.dll
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.pdb
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.csproj.AssemblyReference.cache
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.dll
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\ref\Todo.DataLab.dll
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.pdb
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.csproj.CopyComplete

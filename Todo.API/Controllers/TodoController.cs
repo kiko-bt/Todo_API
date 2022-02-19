@@ -5,7 +5,7 @@ using ToDO.Domain;
 
 namespace Todo.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class TodoController : ControllerBase
     {

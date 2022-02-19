@@ -56,7 +56,7 @@ namespace Todo.DataLab.Migrations
                         new
                         {
                             Id = 1,
-                            AddedOn = new DateTime(2022, 2, 13, 20, 33, 16, 941, DateTimeKind.Local).AddTicks(9924),
+                            AddedOn = new DateTime(2022, 2, 20, 0, 41, 35, 575, DateTimeKind.Local).AddTicks(9149),
                             IsComplete = true,
                             Name = "Make an order from Asos",
                             Priority = 1,
@@ -65,7 +65,7 @@ namespace Todo.DataLab.Migrations
                         new
                         {
                             Id = 2,
-                            AddedOn = new DateTime(2022, 2, 24, 20, 33, 16, 941, DateTimeKind.Local).AddTicks(9955),
+                            AddedOn = new DateTime(2022, 3, 3, 0, 41, 35, 575, DateTimeKind.Local).AddTicks(9176),
                             IsComplete = false,
                             Name = "Implement Web API project",
                             Priority = 3,
@@ -74,7 +74,7 @@ namespace Todo.DataLab.Migrations
                         new
                         {
                             Id = 3,
-                            AddedOn = new DateTime(2022, 2, 12, 20, 33, 16, 941, DateTimeKind.Local).AddTicks(9957),
+                            AddedOn = new DateTime(2022, 2, 19, 0, 41, 35, 575, DateTimeKind.Local).AddTicks(9178),
                             IsComplete = true,
                             Name = "Go to gym",
                             Priority = 3,

@@ -57,17 +57,17 @@ namespace Todo.DataLab.Migrations
             migrationBuilder.InsertData(
                 table: "Todos",
                 columns: new[] { "Id", "AddedOn", "IsComplete", "Name", "Priority", "UserId" },
-                values: new object[] { 1, new DateTime(2022, 2, 13, 20, 33, 16, 941, DateTimeKind.Local).AddTicks(9924), true, "Make an order from Asos", 1, 1 });
+                values: new object[] { 1, new DateTime(2022, 2, 20, 0, 41, 35, 575, DateTimeKind.Local).AddTicks(9149), true, "Make an order from Asos", 1, 1 });
 
             migrationBuilder.InsertData(
                 table: "Todos",
                 columns: new[] { "Id", "AddedOn", "IsComplete", "Name", "Priority", "UserId" },
-                values: new object[] { 2, new DateTime(2022, 2, 24, 20, 33, 16, 941, DateTimeKind.Local).AddTicks(9955), false, "Implement Web API project", 3, 1 });
+                values: new object[] { 2, new DateTime(2022, 3, 3, 0, 41, 35, 575, DateTimeKind.Local).AddTicks(9176), false, "Implement Web API project", 3, 1 });
 
             migrationBuilder.InsertData(
                 table: "Todos",
                 columns: new[] { "Id", "AddedOn", "IsComplete", "Name", "Priority", "UserId" },
-                values: new object[] { 3, new DateTime(2022, 2, 12, 20, 33, 16, 941, DateTimeKind.Local).AddTicks(9957), true, "Go to gym", 3, 1 });
+                values: new object[] { 3, new DateTime(2022, 2, 19, 0, 41, 35, 575, DateTimeKind.Local).AddTicks(9178), true, "Go to gym", 3, 1 });
 
             migrationBuilder.CreateIndex(
                 name: "IX_Todos_UserId",

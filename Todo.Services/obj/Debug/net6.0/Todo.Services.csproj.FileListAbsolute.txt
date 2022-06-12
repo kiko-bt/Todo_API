@@ -19,7 +19,6 @@ C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.Services\obj\Debug\net6.0\ref\Todo
 C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.Services\obj\Debug\net6.0\Todo.Services.pdb
 D:\Todo.API\Todo.Services\bin\Debug\net6.0\Todo.Services.deps.json
 D:\Todo.API\Todo.Services\bin\Debug\net6.0\Todo.Services.dll
-D:\Todo.API\Todo.Services\bin\Debug\net6.0\ref\Todo.Services.dll
 D:\Todo.API\Todo.Services\bin\Debug\net6.0\Todo.Services.pdb
 D:\Todo.API\Todo.Services\bin\Debug\net6.0\Todo.DataLab.dll
 D:\Todo.API\Todo.Services\bin\Debug\net6.0\Todo.Domain.dll
@@ -36,3 +35,4 @@ D:\Todo.API\Todo.Services\obj\Debug\net6.0\Todo.Services.csproj.CopyComplete
 D:\Todo.API\Todo.Services\obj\Debug\net6.0\Todo.Services.dll
 D:\Todo.API\Todo.Services\obj\Debug\net6.0\ref\Todo.Services.dll
 D:\Todo.API\Todo.Services\obj\Debug\net6.0\Todo.Services.pdb
+D:\Todo.API\Todo.Services\obj\Debug\net6.0\refint\Todo.Services.dll

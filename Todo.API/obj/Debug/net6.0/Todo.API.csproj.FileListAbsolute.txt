@@ -75,7 +75,6 @@ D:\Todo.API\Todo.API\bin\Debug\net6.0\Todo.API.exe
 D:\Todo.API\Todo.API\bin\Debug\net6.0\Todo.API.deps.json
 D:\Todo.API\Todo.API\bin\Debug\net6.0\Todo.API.runtimeconfig.json
 D:\Todo.API\Todo.API\bin\Debug\net6.0\Todo.API.dll
-D:\Todo.API\Todo.API\bin\Debug\net6.0\ref\Todo.API.dll
 D:\Todo.API\Todo.API\bin\Debug\net6.0\Todo.API.pdb
 D:\Todo.API\Todo.API\bin\Debug\net6.0\AutoMapper.dll
 D:\Todo.API\Todo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -140,3 +139,4 @@ D:\Todo.API\Todo.API\obj\Debug\net6.0\Todo.API.dll
 D:\Todo.API\Todo.API\obj\Debug\net6.0\ref\Todo.API.dll
 D:\Todo.API\Todo.API\obj\Debug\net6.0\Todo.API.pdb
 D:\Todo.API\Todo.API\obj\Debug\net6.0\Todo.API.genruntimeconfig.cache
+D:\Todo.API\Todo.API\obj\Debug\net6.0\refint\Todo.API.dll

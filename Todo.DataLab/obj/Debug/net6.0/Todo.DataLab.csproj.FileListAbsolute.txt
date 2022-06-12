@@ -18,7 +18,6 @@ C:\Users\Hristijan\Desktop\ToDo\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.Data
 D:\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.deps.json
 D:\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.runtimeconfig.json
 D:\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.dll
-D:\Todo.API\Todo.DataLab\bin\Debug\net6.0\ref\Todo.DataLab.dll
 D:\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.DataLab.pdb
 D:\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.Domain.dll
 D:\Todo.API\Todo.DataLab\bin\Debug\net6.0\Todo.Domain.pdb
@@ -32,3 +31,4 @@ D:\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.dll
 D:\Todo.API\Todo.DataLab\obj\Debug\net6.0\ref\Todo.DataLab.dll
 D:\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.pdb
 D:\Todo.API\Todo.DataLab\obj\Debug\net6.0\Todo.DataLab.genruntimeconfig.cache
+D:\Todo.API\Todo.DataLab\obj\Debug\net6.0\refint\Todo.DataLab.dll
